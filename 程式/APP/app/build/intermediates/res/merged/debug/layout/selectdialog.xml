@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical">
+<RadioGroup
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:checkedButton="@+id/radstore1"
+    android:id="@+id/radGrpStore">
+    <RadioButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="日和日式料理"
+        android:id="@+id/radstore1"
+        android:layout_weight="0.31" />
+
+    <RadioButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="上品排骨"
+        android:id="@+id/radstore2"
+        android:layout_weight="0.31" />
+
+    <RadioButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="福客鐵板料理"
+        android:id="@+id/radstore3"
+        android:layout_weight="0.31" />
+
+    <RadioButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="丼太郎"
+        android:id="@+id/radstore4"
+        android:layout_weight="0.27" />
+
+</RadioGroup>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <Button
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:text="查詢"
+        android:id="@+id/button2"
+
+        android:onClick="selectsure"
+        android:layout_gravity="center" />
+
+        <Button
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="返回"
+            android:id="@+id/button"
+            android:onClick="backsitua"
+            android:layout_gravity="center" />
+    </LinearLayout>
+</LinearLayout>

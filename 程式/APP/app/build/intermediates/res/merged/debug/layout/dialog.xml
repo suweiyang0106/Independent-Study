@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="加入"
+        android:id="@+id/sure"
+        android:onClick="sure"
+        android:layout_gravity="center_vertical" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="進入帳單"
+        android:id="@+id/paybill"
+        android:onClick="gotobill"
+        android:layout_gravity="center_vertical" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="退出"
+        android:id="@+id/cancel"
+        android:onClick="cancel"
+        android:layout_gravity="center_vertical" />
+
+</LinearLayout>

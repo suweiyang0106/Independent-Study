@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="bt_store_order">#ff0000ff</color>
+    <color name="text_store_order">#ffcccccc</color>
+    <color name="btn_situation">#ffff0000</color>
+    <color name="manu_bg">#ff444444</color>
+    <color name="btn_logout">#ff00ffff</color>
+    <color name="btn_store_order">#b0c4de</color>
+    <color name="store_order_bg">#c0c0c0</color>
+    <color name="food_net_bg">#f9f91e</color>
+    <color name="select_bg">	#FFBB66</color>
+
+</resources>

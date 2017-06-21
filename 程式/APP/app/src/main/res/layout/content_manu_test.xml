@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:id="@+id/content_manu_test"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="info.androidhive.loginandregistration.activity.ManuTest"
+    tools:showIn="@layout/app_bar_manu_test"
+    android:background="#f5163154"
+    android:weightSum="1">
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.04">
+
+        <TextView
+            android:text="人潮情況："
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4"
+            android:layout_weight="0.5"
+            android:textColor="@color/food_net_bg"
+            android:elevation="2dp"
+            android:textSize="20dp" />
+
+        <TextView
+            android:text="正常"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView6"
+            android:layout_weight="2"
+            android:textColor="@color/food_net_bg"
+            android:textSize="20dp"
+            android:elevation="1dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.04"
+        android:layout_marginTop="20dp" >
+
+        <TextView
+            android:text="等候時間："
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView7"
+            android:layout_weight="0.5"
+            android:textColor="@color/food_net_bg"
+            android:textSize="20dp"
+            android:elevation="2dp" />
+
+        <TextView
+            android:text="等候時間"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView8"
+            android:layout_weight="2"
+            android:textColor="@color/food_net_bg"
+            android:textSize="20dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.68"
+        android:layout_marginTop="30dp" >
+
+        <Button
+            android:text="查詢訂單"
+            android:id="@+id/button4"
+            android:onClick="select"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/red_button_shape"
+            android:shadowColor="#FFFDFC"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="0"
+            android:layout_above="@+id/foodnet_btn"
+            android:layout_alignLeft="@+id/btn_situation"
+            android:layout_alignStart="@+id/btn_situation"
+            android:layout_marginBottom="34dp" />
+
+        <Button
+            android:text="食材平台"
+            android:id="@+id/foodnet_btn"
+            android:onClick="foodmateria"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/red_button_shape"
+            android:shadowColor="#FFFDFC"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="0"
+            android:layout_marginBottom="39dp"
+            android:layout_above="@+id/btn_situation"
+            android:layout_alignLeft="@+id/button4"
+            android:layout_alignStart="@+id/button4" />
+
+        <Button
+            android:text="餐點數量"
+            android:id="@+id/btn_situation"
+            android:onClick="situation"
+            android:allowUndo="false"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/red_button_shape"
+            android:shadowColor="#FFFDFC"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="0"
+            android:layout_marginBottom="18dp"
+            android:layout_above="@+id/btn_logout"
+            android:layout_alignLeft="@+id/btn_store_order"
+            android:layout_alignStart="@+id/btn_store_order" />
+
+        <Button
+
+            android:text="點餐"
+            android:id="@+id/btn_store_order"
+            android:onClick="storeorder"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/red_button_shape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:layout_marginBottom="28dp"
+            android:layout_above="@+id/button4"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:text="logout"
+            android:id="@+id/btn_logout"
+            android:background="#150189"
+            android:onClick="logout"
+            android:clickable="false"
+            android:layout_marginBottom="38dp"
+            android:textColor="#fffdfd"
+            android:textSize="15dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal" />
+
+    </LinearLayout>
+</LinearLayout>

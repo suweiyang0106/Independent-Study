@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Aspire\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Aspire\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-153668b532656ba1f8169b719c3286a41ad75f7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspire\AndroidStudioProjects\LOGIN\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b5a13546918a29711405ebb76ffad74efa811543">
+        <dex dex="C:\Users\Aspire\AndroidStudioProjects\LOGIN\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b21bdf1252ca86f7dc9e8b7ab60ef90a1b1030d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aspire\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Aspire\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-1aec75faef6b2316bbb2f2c778135b99dc5fef12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspire\AndroidStudioProjects\LOGIN\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Aspire\AndroidStudioProjects\LOGIN\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_a51340555311d5681bb407b542025bde2629f4c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aspire\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Aspire\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-65814036f064beed199f05724fb9c47be7c9f2bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aspire\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Aspire\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-a5dd310361d52dfa6e3135a4f30814f6c7d7ba4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspire\AndroidStudioProjects\LOGIN\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Aspire\AndroidStudioProjects\LOGIN\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_4e85272530026b3f5cea20f7b08f65b9d82dbb35.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aspire\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Aspire\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-ddefeedd548c85707c84008ed186bdaa470c5daa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aspire\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Aspire\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-23d570f6aaa5a5711c8688956e4e169fc572d7cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspire\AndroidStudioProjects\LOGIN\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Aspire\AndroidStudioProjects\LOGIN\app\build\intermediates\pre-dexed\debug\com.mcxiaoke.volley-library-aar-1.0.0_d0242263991a8ff03121633b836bd9a154a5014a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aspire\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Aspire\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-bc3cd0c9c7ca3ccb429321c34ad44f273acaab50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspire\AndroidStudioProjects\LOGIN\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Aspire\AndroidStudioProjects\LOGIN\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_fa59f02ef1edf039d336459691aecc1346ce9537.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspire\AndroidStudioProjects\LOGIN\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Aspire\AndroidStudioProjects\LOGIN\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_644ac55efb400725d04292c5d28820d5e35bd885.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspire\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Aspire\AndroidStudioProjects\LOGIN\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_23d570f6aaa5a5711c8688956e4e169fc572d7cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspire\AndroidStudioProjects\LOGIN\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Aspire\AndroidStudioProjects\LOGIN\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_f0332023b3849ac9891997946eac26d55f831e15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspire\AndroidStudioProjects\LOGIN\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4fd6e6f65c33312eb88750a81ae1ef2440d6dd83">
+        <dex dex="C:\Users\Aspire\AndroidStudioProjects\LOGIN\app\build\intermediates\pre-dexed\debug\instant-run_49c23c55c8db5c0f42c037f068b93e3394b03904.jar" />
+    </item>
+
+</items>
